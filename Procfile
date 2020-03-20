@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/SpringBookifyApplication-1.0.war --port $PORT target/*.war
