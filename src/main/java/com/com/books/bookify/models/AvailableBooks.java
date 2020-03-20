@@ -26,7 +26,6 @@ public class AvailableBooks {
   							category,
   							price
   							;
-  @Column(columnDefinition="LONGTEXT")
   private String description;
   							
   
